@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.aperigeek.latitude</groupId>
-    <artifactId>latitude-hitory-plotter</artifactId>
+    <artifactId>latitude-history-plotter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>latitude-hitory-plotter</name>
+    <name>latitude-history-plotter</name>
     <url>http://maven.apache.org</url>
 
     <properties>
