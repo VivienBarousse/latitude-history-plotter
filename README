@@ -1,0 +1,9 @@
+Draws a map of all the movements recorded in your latitude history.
+
+Usage:
+    java -jar latitude0history-plotter.jar kml image
+    Where:
+        `kml` is the location of your latitude history, in kml format
+        `image` is the destination image name (PNG format will be recorded)
+
+The source code is distributed under the GPL version 3 licensing terms.
